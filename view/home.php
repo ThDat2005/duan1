@@ -44,6 +44,10 @@ h4{
     color: red;  
     font-weight: bold; /* Makes the price stand out */  
 }  
+.colo-black{
+    color: black;
+    font-weight:bold;
+}
 
 /* Ensuring titles and prices are centered */  
 .card-title, .card-text {  
@@ -241,7 +245,7 @@ h4{
         <img src="view/img/product1.webp" class="card-img-top" alt="Salvatore Ferragamo Signorina Libera">   
         <div class="card-body">  
             <h6 class="card-title">Salvatore Ferragamo</h6>  
-            <p class="card-text">Salvatore Ferragamo Signorina Libera</p>  
+            <a class="color-black" href="index.php?act=product-ct"><p class="card-text">Salvatore Ferragamo Signorina Libera</p></a>
             <p class="card-price color-red">1,980,000đ - 2,150,000₫</p>  
             <p>1 Sizers</p>   
         </div>  
