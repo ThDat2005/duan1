@@ -244,7 +244,7 @@ h4{
         <img src="view/img/product1.webp" class="card-img-top" alt="Salvatore Ferragamo Signorina Libera">   
         <div class="card-body">  
             <h6 class="card-title">Salvatore Ferragamo</h6>  
-            <a class=" card-text color-black" href="index.php?act=product-ct"><p class="card-text">Salvatore Ferragamo Signorina Libera</p></a>
+            <a class=" card-text color-black text-decoration-none" href="index.php?act=product-ct"><p class="card-text ">Salvatore Ferragamo Signorina Libera</p></a>
             <p class="card-price color-red">1,980,000đ - 2,150,000₫</p>  
             <p>1 Sizers</p>   
         </div>  

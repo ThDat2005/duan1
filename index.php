@@ -15,6 +15,9 @@ if((isset($_GET['act']))&&($_GET['act']!="")){
         case 'login':
             include 'view/login.php';
             break;
+        case 'cart':
+            include 'view/cart.php';
+            break;
         default:
             # code...
             break;

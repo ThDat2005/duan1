@@ -13,7 +13,18 @@
     width: 100%;
     margin: 0;
     padding: 0;
-}    
+}   
+@media (max-width: 768px) {
+            .box {
+                background: lightcoral;
+            }
+        }
+
+        @media (max-width: 576px) {
+            .box {
+                flex: 1 1 100%;
+            }
+        } 
         .color-white { color: white; }
         .color-black { color: black; }
         .color-red { color: red; }

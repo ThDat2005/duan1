@@ -275,7 +275,7 @@
                 </div>
             </div>
             <div class="button-actions">
-                <button class="btn btn-buy btn-add-to-cart">Thêm vào giỏ hàng</button>
+                <button class="btn btn-buy btn-add-to-cart"><a class="text-decoration-none text-light" href="index.php?act=cart">Thêm Vào Giỏ Hàng</a></button>
                 <button class="btn btn-buy btn-buy-now">Mua ngay</button>
             </div>
         </div>
